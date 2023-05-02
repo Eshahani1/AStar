@@ -53,7 +53,7 @@ public class Space implements Comparable<Space> {
      * Get the distance from this space
      * @return The distance from this space
      */
-    private int getDistFrom() {
+    int getDistFrom() {
         return distFrom;
     }
 
